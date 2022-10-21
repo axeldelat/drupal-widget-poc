@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.widget__card {
+  border: blue solid 1px;
+  margin: 2em;
+  padding: 3em;
+}
